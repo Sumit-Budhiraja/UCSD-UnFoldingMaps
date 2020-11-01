@@ -26,12 +26,9 @@ Capabilities includes:
   - When clicking an airport marker
     - Draw a line to its routes and hides other airports
 
-unfolding_app_template and UC San Diego/Coursera MOOC starter code
+unfolding_app_template and UC San Diego/Coursera MOOC completed code
 ==================================================================
 
-This is a skeleton to use Unfolding in Eclipse as well as some starter
-code for the Object Oriented Programming in Java course offered by 
-UC San Diego through Coursera.
 
 A very basic Unfolding demo you'll find in the source folder in the default package. 
 For more examples visit http://unfoldingmaps.org, or download the template with
